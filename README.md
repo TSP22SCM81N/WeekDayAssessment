@@ -12,8 +12,12 @@ step 1:
 Clone the repo
 
 step 2:
-open it on VS code and to install all the dependencies run, 
-npm install
+open it on VS code and go to the project directory
+cd "path"
 
 step 3:
+to install all the dependencies run, 
+npm install
+
+step 4:
 npm run dev
