@@ -1,3 +1,6 @@
+//this is for creating the JOB CARDS
+//this has the API code at the end
+
 import React, { useState, useEffect } from 'react';
 import { Grid, Button, Typography } from '@material-ui/core';
 import { FaHourglassHalf } from 'react-icons/fa';
@@ -393,7 +396,6 @@ const Job = () => {
 };
 
 export default Job;
-
 
 
 //LOOKS LIKE THE API IS NOT WORKING.
