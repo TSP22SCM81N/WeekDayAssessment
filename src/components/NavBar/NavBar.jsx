@@ -1,3 +1,5 @@
+//this components containd the title WEEKDAY and 2 other options to check for the Applied Jobs and Search Jobs
+
 import React from "react";
 
 const NavBar = () => {
