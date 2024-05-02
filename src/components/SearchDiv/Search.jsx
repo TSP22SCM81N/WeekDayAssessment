@@ -1,3 +1,7 @@
+//this component has the Filter options like
+//Role, Number of Employee, Experience, Minimum base pay, Remote and Search by Company with various MenuItem.
+//designed using @material-ui/core
+
 import React, { useState } from "react";
 import { Select, MenuItem, TextField, Button, Grid } from "@material-ui/core";
 
